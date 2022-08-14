@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #023c11b7;
+}
+
+header {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  color: white;
+  margin-top: 25px;
+}
+
+section {
+  color: white;
+  background-image: url(./fundo.png);  
+  border-radius: 10px;
+  padding: 20px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.374);
+}
+
+footer {
+  color: rgba(255, 255, 255, 0.927);
+  text-align: center;
+  margin-top: 30px;
+}
+
